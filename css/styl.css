@@ -1,0 +1,60 @@
+.card-img-overlay {
+    text-align: center;
+    color: white;
+    padding-top: 31rem;
+    font-size: 5rem;
+}
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+p.card-title {
+    font-size: 8rem;
+    margin-bottom: 4rem;
+    margin-top: -8rem;
+}
+
+p.card-text1.fw-bold {
+    color: orange;
+}
+p.font-monospace {
+    FONT-SIZE: 46px;
+}
+
+.form-control {
+    display: block;
+    width: 91%;
+    padding: 1.375rem 0.75rem;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+}
+h1.p-3 {
+    color: #666a76;
+}
+.position-relative.m-4 {
+    width: 34rem;
+    left: 41rem;
+}
+
+button.btn.btn-lg {
+    background-color: #916729;
+    color: white;
+    width: 80rem;
+    height: 4rem;
+    
+}
+.input {
+    padding-bottom: 1rem;
+}
+.rounded.border.border-1.text-center {
+    height: 225px;
+    width: 225px;
+}
+i.fa-duotone.fa-plus {
+    position: relative;
+    font-size: 13rem;
+    top: -63px;
+    color: #d6d5d3;
+}
